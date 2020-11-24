@@ -7,6 +7,9 @@
 <img border="0" alt="appstore" src="https://marco-leong.com/Memes/assets/appstore.png" 
 </a>
 </p>
+  
+
+<a href="https://marco-leong.com/privacy_memes/">Privacy Policies</a>
 
   
 
