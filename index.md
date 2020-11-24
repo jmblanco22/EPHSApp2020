@@ -3,16 +3,20 @@
 ![Image of Ep Logo](https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1559572779/edenprorg/zuk5qlgjwlh1yllmezpi/EPEagle.png)
 
 
-<p>
+
+  
+  .topright {
+  position: absolute;
+  top: 8px;
+  right: 16px;
+  font-size: 18px;
+}
+<div class="topright"><p>
 <a href="https://appstoreconnect.apple.com/apps/1540598932/testflight/users">
 <img border="0" alt="appstore" src="https://marco-leong.com/Memes/assets/appstore.png" 
 </a>
-</p>
+</p></div>
 
-
-
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jmblanco22/EPHSApp2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
