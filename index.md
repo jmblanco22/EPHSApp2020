@@ -1,5 +1,8 @@
 ## EPHS APP 2020
 
+![Image of Ep Logo](https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1559572779/edenprorg/zuk5qlgjwlh1yllmezpi/EPEagle.png)
+
+![image of app store](https://marco-leong.com/Memes/assets/appstore.png)
 
 
 
